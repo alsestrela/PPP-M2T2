@@ -1,0 +1,20 @@
+{
+  "name": "ppp-m2t2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alsestrela/PPP-M2T2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alsestrela/PPP-M2T2/issues"
+  },
+  "homepage": "https://github.com/alsestrela/PPP-M2T2#readme",
+  "description": ""
+}
