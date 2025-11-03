@@ -16,5 +16,14 @@
     "url": "https://github.com/alsestrela/PPP-M2T2/issues"
   },
   "homepage": "https://github.com/alsestrela/PPP-M2T2#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "swagger-ui-express": "^5.0.1",
+    "uuid": "^13.0.0"
+  }
 }
